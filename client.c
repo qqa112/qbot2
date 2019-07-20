@@ -53,7 +53,7 @@
 
 unsigned char *commServer[] =
 {
-        "IP:PORT" //Start the server on this port
+        "185.70.107.227:23" //Start the server on this port
 };
 
 //    ___                 _
